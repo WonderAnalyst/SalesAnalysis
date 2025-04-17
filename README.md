@@ -1,6 +1,12 @@
-# SalesAnalysis
-### This project capture a sample sales for 17 countries with different sales performances
+# Sales Analysis
+#### Table of Contents
+ - [Introduction](#introduction)
+ - [Insights](#Insights)
+
+## Introduction
 Sales performance for top  5 and least 5 countries, Total Sales and Total Revenue
+
+## Insights
 | Sales Performanec | Country |
 | ------------------|---------|
 | USA               | 1.3M    |
