@@ -1,10 +1,16 @@
 # Sales Analysis
 #### Table of Contents
- - [Introduction](#introduction)
+ - [Introduction and Overview](#introduction)
  - [Insights](#Insights)
 
-## Introduction
-Sales performance for top  5 and least 5 countries, Total Sales and Total Revenue
+## Introduction / Overview
+Dashboard Summary: Inventory Optimization Analysis
+##### Overview
+Categories: 21 product categories tracked (e.g., Burger, Doritos, Pringles).
+ - Total Products Monitored: 107
+ - Total Demands: 14,103
+ - Total Sales: $42,098,385
+ - Total Economic Order Value (EOQ): $478.66 (Average EOQ: $28.16)
 
 ## Insights
 | Sales Performanec | Country |
