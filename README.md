@@ -1,9 +1,9 @@
 # Sales Analysis
 #### Table of Contents
- - [Introduction and Overview](#introduction)
+ - [Introduction](#introduction)
  - [Insights](#Insights)
 
-## Introduction / Overview
+## Introduction
 Dashboard Summary: Inventory Optimization Analysis
 ##### Overview
 Categories: 21 product categories tracked (e.g., Burger, Doritos, Pringles).
