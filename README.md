@@ -10,5 +10,6 @@ The following were the insights extracted from the dataset
   - Total Revenue
   - Sales performance by Country
   - Average Sales
-  - Top 5 Country by Sales Performance
+  - Top 5 Countries by Sales Performance
+  
     
